@@ -1,0 +1,20 @@
+-------------------------------------------------------------------------------
+Test set: com.studentapp.studentinfo.StudentCURDTestWithSteps
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 4, Skipped: 0, Time elapsed: 0.001 sec <<< FAILURE! - in com.studentapp.studentinfo.StudentCURDTestWithSteps
+test001(com.studentapp.studentinfo.StudentCURDTestWithSteps)  Time elapsed: 0 sec  <<< ERROR!
+java.lang.NullPointerException: null
+	at com.studentapp.studentinfo.StudentCURDTestWithSteps.test001(StudentCURDTestWithSteps.java:49)
+
+test002(com.studentapp.studentinfo.StudentCURDTestWithSteps)  Time elapsed: 0 sec  <<< ERROR!
+java.lang.NullPointerException: null
+	at com.studentapp.studentinfo.StudentCURDTestWithSteps.test002(StudentCURDTestWithSteps.java:61)
+
+test003(com.studentapp.studentinfo.StudentCURDTestWithSteps)  Time elapsed: 0 sec  <<< ERROR!
+java.lang.NullPointerException: null
+	at com.studentapp.studentinfo.StudentCURDTestWithSteps.test003(StudentCURDTestWithSteps.java:76)
+
+test004(com.studentapp.studentinfo.StudentCURDTestWithSteps)  Time elapsed: 0 sec  <<< ERROR!
+java.lang.NullPointerException: null
+	at com.studentapp.studentinfo.StudentCURDTestWithSteps.test004(StudentCURDTestWithSteps.java:87)
+
